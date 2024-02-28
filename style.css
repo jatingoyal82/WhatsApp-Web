@@ -179,6 +179,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    color: #556670;
 }
 
 .main-header-icon {
@@ -189,11 +190,6 @@ body {
 }
 
 .main-header-icon span {
-    height: 1.5rem;
-    opacity: 0.7;
-}
-
-.main-header-icon img {
     height: 1.5rem;
 }
 
