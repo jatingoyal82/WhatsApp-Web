@@ -1,3 +1,2 @@
 # WhatsApp-Web
-Created the fully responsive WhatsApp Web Clone using HTML &amp; CSS.
-Working Properly on Phone as well as PCs.
+A fully responsive WhatsApp Web Clone website, meticulously crafted using HTML & CSS. Seamlessly functioning across both mobile devices and desktops, this clone faithfully replicates the beloved WhatsApp Web experience. From its sleek interface to its intuitive functionality, every aspect has been carefully designed to ensure a seamless and enjoyable user experience. Whether you're on the go or at your desk, stay connected with friends and family through this versatile and reliable web-based messaging platform.
